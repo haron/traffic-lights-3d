@@ -1,0 +1,15 @@
+Traffic-light keychain, 24 x 72.1 x 7.3 mm, one piece, 4 colors.
+
+Open traffic_light.3mf: one object, 4 parts. Map filaments:
+  body        -> black
+  lens_red    -> red     (top)
+  lens_yellow -> yellow  (middle)
+  lens_green  -> green   (bottom)
+
+Already oriented: back face on the bed, no supports needed.
+PLA, 0.2 mm layers, 0.4 mm nozzle is fine.
+Color changes only between Z = 1 and 4.5 mm.
+Lenses are domed: 0.1-0.12 mm layers or ironing make them smoother.
+
+No 3MF support? Select all 4 STLs at once and import them as
+"a single object with multiple parts". They share one origin.
